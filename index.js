@@ -22,11 +22,3 @@ function sayHiToGrandma(string){
     return 
   }
   }
-
-function sayHiToGrandma(string){
-  return string
-}
-
-function sayHiToGrandma(string){
-  return string
-}
