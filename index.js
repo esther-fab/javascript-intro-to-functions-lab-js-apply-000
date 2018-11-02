@@ -19,9 +19,9 @@ function sayHiToGrandma(string){
    return "I can\'t hear you";
   }
   else if (string == "I love you Grandma") {
-    return "I love you too"
+    return "YES INDEED!"
   }
   else {
-    return "YES INDEED!"
+    return "I love you, too"
   }
   }
